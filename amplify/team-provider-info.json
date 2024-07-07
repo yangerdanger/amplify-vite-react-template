@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-austinbiosciences-staging-b345b-authRole",
+      "UnauthRoleArn": "arn:aws:iam::647584450819:role/amplify-austinbiosciences-staging-b345b-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::647584450819:role/amplify-austinbiosciences-staging-b345b-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-austinbiosciences-staging-b345b-deployment",
+      "UnauthRoleName": "amplify-austinbiosciences-staging-b345b-unauthRole",
+      "StackName": "amplify-austinbiosciences-staging-b345b",
+      "StackId": "arn:aws:cloudformation:us-east-1:647584450819:stack/amplify-austinbiosciences-staging-b345b/f889aca0-3be0-11ef-a142-0affc38b0fc5",
+      "AmplifyAppId": "d1tylxw5yx6p8o"
+    }
+  }
+}
